@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenarentschler
 - 👀 I’m interested in front-end development, programming and design :)
-- 🌱 I’m currently learning C, HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 💞️ I’m looking to collaborate on anything related to the languages above!
 
 <!---
