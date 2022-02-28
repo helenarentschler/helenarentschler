@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenarentschler
 - 👀 I’m interested in front-end development, programming and design :)
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript (Plan to study React.Js!)
 - 💞️ I’m looking to collaborate on anything related to the languages above!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenarentschler/)
