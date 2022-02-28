@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything related to the languages above!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenarentschler/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helenarentschl)
 
 <div style = "display: flex;"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenarentschler&show_icons=true&theme=tokyonight"/>
