@@ -8,11 +8,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helenarentschl)
 
 <div style = "display: flex;"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenarentschler&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenarentschler&layout=compact&theme=tokyonight"/>
-</div>
-
-<div style = "display: flex;"> 
   <img align="center" alt="Helena-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Helena-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Helena-javaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
