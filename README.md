@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helenarentschler
-- 👀 I’m interested in front-end development, programming and design :)
+- 👀 I’m interested in programming and design :)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything related to the languages above!
 
