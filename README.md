@@ -13,7 +13,11 @@
    <img align="center" alt="Helena-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenarentschler)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenarentschler)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 helenarentschler/helenarentschler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
